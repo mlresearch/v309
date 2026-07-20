@@ -31,19 +31,19 @@ lastpage: 12
 page: 1-12
 order: 1
 cycles: false
-bibtex_author: Vaccarelli, Ornella and Wolf, Beat and Kimber, Talia B. and Christin,
-  Thomas and Kadelbach, Thomas
+bibtex_author: Kimber, Talia B. and Vaccarelli, Ornella and Christin,
+  Thomas and Kadelbach, Thomas and Wolf, Beat
 author:
-- given: Ornella
-  family: Vaccarelli
-- given: Beat
-  family: Wolf
 - given: Talia B.
   family: Kimber
+- given: Ornella
+  family: Vaccarelli
 - given: Thomas
   family: Christin
 - given: Thomas
   family: Kadelbach
+- given: Beat
+  family: Wolf
 date: 2026-04-06
 address:
 container-title: Proceedings of the Fourth Swiss AI Days
